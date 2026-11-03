@@ -3,11 +3,11 @@ A web-based application that allows a university to manage student clubs, member
 
 # features
 Dashboard - Overview of clubs, students, and events <br>
-Club Management - Create, edit, delete, and view clubs
-Student Management - Register and manage students
-Membership - Add student to clubs
-Event Management - Create and manage club events
-Attendance - Track event participation
-Club Officers - Assign presidents, vice presidents, etc.
-Reports - Generate membership and event reports.
+Club Management - Create, edit, delete, and view clubs <br>
+Student Management - Register and manage students <br>
+Membership - Add student to clubs <br>
+Event Management - Create and manage club events <br>
+Attendance - Track event participation <br>
+Club Officers - Assign presidents, vice presidents, etc. <br>
+Reports - Generate membership and event reports. <br>
 Login System - Admin and authorized user access.
