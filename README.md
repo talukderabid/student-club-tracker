@@ -11,3 +11,7 @@ Attendance - Track event participation <br>
 Club Officers - Assign presidents, vice presidents, etc. <br>
 Reports - Generate membership and event reports. <br>
 Login System - Admin and authorized user access.
+
+# designing the database
+## tables
+Students, Clubs, Events, FacultyAdvisors, ClubCategories, Memberships, EventAttendance, ClubOfficers
