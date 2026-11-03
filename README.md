@@ -2,7 +2,7 @@
 A web-based application that allows a university to manage student clubs, members, events, and club activities.
 
 # features
-Dashboard - Overview of clubs, students, and events
+Dashboard - Overview of clubs, students, and events <br>
 Club Management - Create, edit, delete, and view clubs
 Student Management - Register and manage students
 Membership - Add student to clubs
